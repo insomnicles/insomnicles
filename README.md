@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @insomnicles
-- 👀 Laravel Fan
+- 👀 a Laravel fan
 
 <!---
 insomnicles/insomnicles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
